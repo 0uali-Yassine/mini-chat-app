@@ -69,6 +69,14 @@ src
 ├── index.js
 ```
 ## Components
+- [App.](#App.js)
+- [Auth](#Auth.js)
+- [Chat](#Chat.js)
+- [Room.js](#Room.js)
+- [Context.js](#Context.js)
+- [Styling](#Styling)
+- [Firebase Setup](#Firebase Setup)
+
 ### App.js
 
 The main component that decides which screen to show based on the user's authentication and room status.
