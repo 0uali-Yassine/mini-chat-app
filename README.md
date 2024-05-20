@@ -69,11 +69,11 @@ src
 ├── index.js
 ```
 ## Components
-- [App.](#App.js)
-- [Auth](#Auth.js)
-- [Chat](#Chat.js)
-- [Room.js](#Room.js)
-- [Context.js](#Context.js)
+- [App.js](#App)
+- [Auth.js](#Auth)
+- [Chat.js](#Chat)
+- [Room.js](#Room)
+- [Context.js](#Context)
 - [Styling](#Styling)
 - [Firebase Setup](#Firebase Setup)
 
