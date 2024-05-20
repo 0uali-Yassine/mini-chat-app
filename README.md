@@ -69,7 +69,7 @@ src
 ├── index.js
 ```
 ## Components
-- [App.js](#App.js)
+- [App](#App.js)
 - [Auth.js](#Auth)
 - [Chat.js](#Chat)
 - [Room.js](#Room)
