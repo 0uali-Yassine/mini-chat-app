@@ -77,31 +77,31 @@ src
 - [Styling](#Styling)
 - [Firebase Setup](#Firebase Setup)
 
-### App.js
+## App.js
 
 The main component that decides which screen to show based on the user's authentication and room status.
 
-### Auth.js
+## Auth.js
 
 Handles user sign-up and sign-in using email/password and Google authentication.
 
-### Chat.js
+## Chat.js
 
 Displays the chat interface where users can send and receive messages in real-time.
 
-### Room.js
+## Room.js
 
 Allows users to create or join a chat room.
 
-### Context.js
+## Context.js
 
 Provides a global context for authentication state and room management.
 
-### Styling
+## Styling
 
 This project uses Tailwind CSS for styling. Classes are directly added in the JSX elements.
 
-### Firebase Setup
+## Firebase Setup
 
 This project uses Firebase for authentication and Firestore for real-time data management. Make sure to configure your Firebase project and update the config.js file with your project's credentials.
 
