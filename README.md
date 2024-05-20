@@ -69,13 +69,13 @@ src
 ├── index.js
 ```
 ## Components
-- [App.js](#App)
+- [App.js](#App.js)
 - [Auth.js](#Auth)
 - [Chat.js](#Chat)
 - [Room.js](#Room)
 - [Context.js](#Context)
 - [Styling](#Styling)
-- [Firebase Setup](#Firebase Setup)
+- [Firebase Setup](#Firebase-Setup)
 
 ## App.js
 
@@ -101,7 +101,7 @@ Provides a global context for authentication state and room management.
 
 This project uses Tailwind CSS for styling. Classes are directly added in the JSX elements.
 
-## Firebase Setup
+## Firebase-Setup
 
 This project uses Firebase for authentication and Firestore for real-time data management. Make sure to configure your Firebase project and update the config.js file with your project's credentials.
 
