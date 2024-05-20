@@ -52,7 +52,7 @@ This is a chat application built with React and Firebase. Users can sign up, sig
 5. Open your browser and visit http://localhost:3000 to view the mini chat app.
 
 ## Folder Structure
-````
+```
 src
 ├── assets
 │   ├── avatar.png
